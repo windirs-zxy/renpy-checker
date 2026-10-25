@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 生成的报告
+report*.html
+
+# 编辑器
+.vscode/
+.idea/
+
+# 备份
+*.bak
+*.orig
+
+# 个人快捷方式（写死了本机路径，不进仓库）
+检查剧本.bat
